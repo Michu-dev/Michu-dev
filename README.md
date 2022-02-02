@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I am a student of Computer Science at the Poznań Univeristy of Technology.
-👀 Interested in Software Development and Data Science
-🌱 Learning new technologies associated with Web Development
-🔭 Working on projects using Java, React and Python
+- 👀 Interested in Software Development and Data Science
+- 🌱 Learning new technologies associated with Web Development
+- 🔭 Working on projects using Java, React and Python
 
 ### Contact me ✉️
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/micha%C5%82-ciesielski-5ab255192/)
@@ -25,7 +25,6 @@ I am a student of Computer Science at the Poznań Univeristy of Technology.
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-
 <br>
 <br>
 
